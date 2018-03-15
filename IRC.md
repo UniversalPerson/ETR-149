@@ -2,42 +2,42 @@
 
 **Steps:**
 
-#Get Raspberry Pi and microSD card#
+Get Raspberry Pi and microSD card
 
-#Download Rasbarian OS onto SD card#
+Download Rasbarian OS onto SD card
 
-#Boot Rasberry Pi into RasbarianRun update and upgrade commands (sudo apt-get update && sudo apt-get
-upgrade –y)Run install command(sudo apt-get install gcc libssl-dev –y)#
+Boot Rasberry Pi into RasbarianRun update and upgrade commands (sudo apt-get update && sudo apt-get
+upgrade –y)Run install command(sudo apt-get install gcc libssl-dev –y)
 
-#Download IRC server called UnrealIRCd and install to /usr/bin#
+Download IRC server called UnrealIRCd and install to /usr/bin
 
-#Configure the Unreal IRC by navigating to the Unreal folder (cd
-Unreal 13.2)then (/Config) command#
+Configure the Unreal IRC by navigating to the Unreal folder (cd
+Unreal 13.2)then (/Config) command
 
-#Change support SSL connections to “Yes”Leave all other settings on default#
+Change support SSL connections to “Yes”Leave all other settings on default
 
-#Genertate SSL certificate and type (make) CD /usr/bing and run unrealircd.confconf#
+Genertate SSL certificate and type (make) CD /usr/bing and run unrealircd.confconf
 
-#Many configurations were made in this filebased on online research#
+Many configurations were made in this filebased on online research
 
-#Start IRC server using (/unreal start) command#
+Start IRC server using (/unreal start) command
 
 
 **Risks/Challenges:**
 
-#Getting Rasbarian to boot#
+Getting Rasbarian to boot
 
-#Finding an easy to configure IRC server that’s compatible with
-Rasbarian#
+Finding an easy to configure IRC server that’s compatible with
+Rasbarian
 
-#Trial and error with different configuration 
-settings until it worked#
-#Trial and error with configuration settings# 
+Trial and error with different configuration 
+settings until it worked
 
-#Downloading Rasbarian(long download)#
 
-#UnrealIRCd not issuing SSL certificate after changing
-configuration setting#
+Downloading Rasbarian(long download)
+
+UnrealIRCd not issuing SSL certificate after changing
+configuration setting
 
 
 **Materials Needed:**
