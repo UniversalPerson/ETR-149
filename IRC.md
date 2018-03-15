@@ -2,7 +2,7 @@
 
 **Steps:**
 
-Get Raspberry Pi and microSD card
+*Get Raspberry Pi and microSD card
 Download Rasbarian OS onto SD card
 Boot Rasberry Pi into RasbarianRun update and upgrade commands (sudo apt-get update && sudo apt-get
 upgrade –y)Run install command(sudo apt-get install gcc libssl-dev –y)
