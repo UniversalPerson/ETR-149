@@ -35,9 +35,11 @@ https://www.raspberrypi.org/downloads/raspbian/
 **Pictures**
 
 ![](unrealircdfull.jpg)
+
 (unrealIRCD loading unrealircd.conf successfully)
 
-![](rasberrypi.jpg)
+![](rasberryPi.jpg)
+
 (Rasberry Pi fully connected and SD card inserted)
 
 
