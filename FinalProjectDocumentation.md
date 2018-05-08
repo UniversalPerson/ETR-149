@@ -2,7 +2,7 @@
 
 With my final project I chose to challenge myself with something I didn&#39;t have much experience in. I chose biometric input to be fed to a voting program using unique identifiers to record which users have voted and which haven&#39;t. I chose a fingerprint scanner as the method of biometric input as I felt it would be the easiest technology to obtain as opposed to facial recognition or eye scanners.
 
-    **Major Objectives:**
+   **Major Objectives:**
 
 - Obtain fingerprint scanner
 - Finding open-source software to interpret and record fingerprint patterns
